@@ -1,0 +1,62 @@
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\bin\Debug\net7.0\appsettings.json
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\bin\Debug\net7.0\chinesezodiac.staticwebassets.runtime.json
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\bin\Debug\net7.0\chinesezodiac.exe
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\bin\Debug\net7.0\chinesezodiac.deps.json
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\bin\Debug\net7.0\chinesezodiac.runtimeconfig.json
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\bin\Debug\net7.0\chinesezodiac.dll
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\bin\Debug\net7.0\chinesezodiac.pdb
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\obj\Debug\net7.0\chinesezodiac.csproj.AssemblyReference.cache
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\obj\Debug\net7.0\chinesezodiac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\obj\Debug\net7.0\chinesezodiac.AssemblyInfoInputs.cache
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\obj\Debug\net7.0\chinesezodiac.AssemblyInfo.cs
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\obj\Debug\net7.0\chinesezodiac.csproj.CoreCompileInputs.cache
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\obj\Debug\net7.0\chinesezodiac.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\obj\Debug\net7.0\chinesezodiac.RazorAssemblyInfo.cache
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\obj\Debug\net7.0\chinesezodiac.RazorAssemblyInfo.cs
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\obj\Debug\net7.0\staticwebassets\msbuild.chinesezodiac.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\obj\Debug\net7.0\staticwebassets\msbuild.build.chinesezodiac.props
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.chinesezodiac.props
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.chinesezodiac.props
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\obj\Debug\net7.0\scopedcss\bundle\chinesezodiac.styles.css
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\obj\Debug\net7.0\scopedcss\projectbundle\chinesezodiac.bundle.scp.css
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\obj\Debug\net7.0\chinesezodiac.dll
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\obj\Debug\net7.0\refint\chinesezodiac.dll
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\obj\Debug\net7.0\chinesezodiac.pdb
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\obj\Debug\net7.0\chinesezodiac.genruntimeconfig.cache
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac\obj\Debug\net7.0\ref\chinesezodiac.dll
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\bin\Debug\net7.0\appsettings.json
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\bin\Debug\net7.0\chinesezodiac.staticwebassets.runtime.json
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\bin\Debug\net7.0\chinesezodiac.exe
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\bin\Debug\net7.0\chinesezodiac.deps.json
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\bin\Debug\net7.0\chinesezodiac.runtimeconfig.json
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\bin\Debug\net7.0\chinesezodiac.dll
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\bin\Debug\net7.0\chinesezodiac.pdb
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\obj\Debug\net7.0\chinesezodiac.csproj.AssemblyReference.cache
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\obj\Debug\net7.0\chinesezodiac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\obj\Debug\net7.0\chinesezodiac.AssemblyInfoInputs.cache
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\obj\Debug\net7.0\chinesezodiac.AssemblyInfo.cs
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\obj\Debug\net7.0\chinesezodiac.csproj.CoreCompileInputs.cache
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\obj\Debug\net7.0\chinesezodiac.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\obj\Debug\net7.0\chinesezodiac.RazorAssemblyInfo.cache
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\obj\Debug\net7.0\chinesezodiac.RazorAssemblyInfo.cs
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\obj\Debug\net7.0\staticwebassets\msbuild.chinesezodiac.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\obj\Debug\net7.0\staticwebassets\msbuild.build.chinesezodiac.props
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.chinesezodiac.props
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.chinesezodiac.props
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\obj\Debug\net7.0\scopedcss\bundle\chinesezodiac.styles.css
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\obj\Debug\net7.0\scopedcss\projectbundle\chinesezodiac.bundle.scp.css
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\obj\Debug\net7.0\chinesezodiac.dll
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\obj\Debug\net7.0\refint\chinesezodiac.dll
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\obj\Debug\net7.0\chinesezodiac.pdb
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\obj\Debug\net7.0\chinesezodiac.genruntimeconfig.cache
+C:\Users\sarve\Documents\4952\Lab02\chinesezodiac - Copy\obj\Debug\net7.0\ref\chinesezodiac.dll

@@ -1,0 +1,24 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <form method="post">
+    <div class="form-group">
+        <label asp-for="yearInput" class="control-label">Year: </label>
+        <input asp-for="yearInput" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <br />
+        <input type="submit" value="Calculate" class="btn btn-primary" />
+        <a asp-action="Index" class="btn btn-success">Clear</a>
+    </div>
+    </form>
+    <div class="result">
+        <h2>@Model.resultText</h2>
+        <img src="@Model.images" alt="@Model.resultText" />
+    </div> 
+</div>
